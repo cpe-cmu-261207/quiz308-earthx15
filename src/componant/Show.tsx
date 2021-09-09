@@ -1,4 +1,4 @@
-import { comments,CommentType } from "../data/comments"
+import { comments } from "../data/comments"
 import Ments from "./Ments"
 const Show = ()=>{
     return(
