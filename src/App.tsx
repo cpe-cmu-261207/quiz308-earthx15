@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -13,8 +12,8 @@ function App() {
 
           {/* image and name */}
           <div className="flex space-x-2 items-center">
-            <img className="w-12 h-12 rounded-full" src="/profileImages/handsome.jpg"></img>
-            <span className='font-semibold text-lg text-white'>Chayanin Suatap 610631100</span>
+            <img className="w-12 h-12 rounded-full" src='./' ></img>
+            <span className='font-semibold text-lg text-white'>Konthakarn Fukam 630610719</span>
           </div>
 
           {/* status message */}
