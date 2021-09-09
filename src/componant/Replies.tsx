@@ -16,7 +16,7 @@ const Replies = ({ username, userImagePath, commentText, likeNum, replies }: Com
                     </div>
                 </div>
             </div>
-            {replies.map(x => <Replies username={x.username} userImagePath={x.userImagePath} commentText={x.commentText} likeNum={x.likeNum} replies={x.replies}></Replies>)}
+            {/* {replies.map(x => <Replies username={x.username} userImagePath={x.userImagePath} commentText={x.commentText} likeNum={x.likeNum} replies={x.replies}></Replies>)} */}
         </div>
 
     )
